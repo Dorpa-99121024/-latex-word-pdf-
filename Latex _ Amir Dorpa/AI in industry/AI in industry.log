@@ -1,0 +1,48 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2023.6.10)  15 JUN 2023 17:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"AI in industry.tex"
+(./AI in industry.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(f:/programs/LiveTex/texlive/2021/texmf-dist/tex/latex/base/article.cls
+
+LaTeX Warning: You have requested document class `Article',
+               but the document class provides `article'.
+
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(f:/programs/LiveTex/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+! Undefined control sequence.
+l.4 \bidi
+         @BeforePackage{xepersian}{
+? 
+! Emergency stop.
+l.4 \bidi
+         @BeforePackage{xepersian}{
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 216 strings out of 478994
+ 2574 string characters out of 5853656
+ 285723 words of memory out of 5000000
+ 17793 multiletter control sequences out of 15000+600000
+ 403730 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,0n,50p,133b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
